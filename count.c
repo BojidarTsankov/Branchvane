@@ -15,5 +15,5 @@ void main ()
         count++;
         n/=10;
     }
-    printf("The count of the numbers is %d in %d", count,m);
+    printf("The count of the numbers is %d in %d", count,m); // taka li e texta
 }
